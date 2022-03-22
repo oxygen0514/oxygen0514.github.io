@@ -43,7 +43,7 @@
     <url>/timeline/index.html</url>
     <content><![CDATA[<div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>记录我们的小站坎坷更新路</p>
 </div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022.3.22</p>
-</div></div><div class='timeline-item-content'><p>增加了在线聊天功能；<br>增加了搜索功能（原为使用algolia来构建搜索，实现后发现无法点击进入对应页面，经过几个小时的尝试，无奈放弃，改为本地搜索，气死！）</p>
+</div></div><div class='timeline-item-content'><p>增加了在线聊天功能；<br>增加了搜索功能（原为使用algolia来构建搜索，实现后发现无法点击进入对应页面，经过几个小时的尝试，无奈放弃，改为本地搜索，气死！）<br>修改了网站背景</p>
 </div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022.3.19</p>
 </div></div><div class='timeline-item-content'><p>构建了这个时光序，用以记录创建过程</p>
 </div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022.3.18 ，重新开始</p>
