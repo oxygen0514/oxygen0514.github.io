@@ -42,7 +42,9 @@
     <title>时光序</title>
     <url>/timeline/index.html</url>
     <content><![CDATA[<div class="timeline undefined"><div class='timeline-item headline'><div class='timeline-item-title'><div class='item-circle'><p>记录我们的小站坎坷更新路</p>
-</div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022.3.22</p>
+</div></div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022.3.23</p>
+</div></div><div class='timeline-item-content'><p>未能成功添加网站背景，想想没什么必要（加了好像更奇怪），暂且搁置<br>更改页脚背景（但是背景过亮，字体变得不明显，后续更改）<br>添加打字特效,添加背景特效,添加鼠标点击特效</p>
+</div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022.3.22</p>
 </div></div><div class='timeline-item-content'><p>增加了在线聊天功能；<br>增加了搜索功能（原为使用algolia来构建搜索，实现后发现无法点击进入对应页面，经过几个小时的尝试，无奈放弃，改为本地搜索，气死！）</p>
 </div></div><div class='timeline-item'><div class='timeline-item-title'><div class='item-circle'><p>2022.3.19</p>
 </div></div><div class='timeline-item-content'><p>构建了这个时光序，用以记录创建过程</p>
