@@ -1,0 +1,79 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3313952 */
+  src: url('//at.alicdn.com/t/font_3313952_naw4kxceiy.woff2?t=1649425012901') format('woff2'),
+       url('//at.alicdn.com/t/font_3313952_naw4kxceiy.woff?t=1649425012901') format('woff'),
+       url('//at.alicdn.com/t/font_3313952_naw4kxceiy.ttf?t=1649425012901') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yinle:before {
+  content: "\e600";
+}
+
+.icon-lianjie:before {
+  content: "\e601";
+}
+
+.icon-sousuo:before {
+  content: "\e62f";
+}
+
+.icon-icon:before {
+  content: "\e66c";
+}
+
+.icon-zhuye:before {
+  content: "\e644";
+}
+
+.icon-shijianzhou:before {
+  content: "\e69a";
+}
+
+.icon-wp-sj:before {
+  content: "\e72a";
+}
+
+.icon-daohang:before {
+  content: "\e656";
+}
+
+.icon-24gl-tags4:before {
+  content: "\e87d";
+}
+
+.icon-guanyu:before {
+  content: "\e60b";
+}
+
+.icon-jurassic_message:before {
+  content: "\e69d";
+}
+
+.icon-16:before {
+  content: "\e61e";
+}
+
+.icon-fenlei:before {
+  content: "\e662";
+}
+
+.icon-xiaoshipinyingshi48:before {
+  content: "\e6ff";
+}
+
+.icon-xiangce:before {
+  content: "\e89f";
+}
+
+.icon-guidang:before {
+  content: "\ed10";
+}
+
