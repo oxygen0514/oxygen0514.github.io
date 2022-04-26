@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Welcome！氧化还原の小站将由此开始旅途</title>
-    <url>/2022/03/18/Welcome%EF%BC%81%E6%B0%A7%E5%8C%96%E8%BF%98%E5%8E%9F%E3%81%AE%E5%B0%8F%E7%AB%99%E5%B0%86%E7%94%B1%E6%AD%A4%E5%BC%80%E5%A7%8B%E6%97%85%E9%80%94/</url>
+    <title>Welcome！氧化还原の小站将由此开始</title>
+    <url>/2022/04/26/Welcome/</url>
     <content><![CDATA[<p>欢迎大家来到 <a href="https://oxygen0514.github.io/">氧化还原の小站</a>! 这是氧化还原小站第一篇文章。 查看 <a href="https://oxygen0514.github.io/about/index.html">关于我们</a> 可以获得更多关于我们的甜蜜。 如果你有任何疑问或者感想，同样欢迎来到我们的 <a href="https://oxygen0514.github.io/messageboard/index.html">留言板</a> 留言。</p>
 <h2 id="声明"><a href="#声明" class="headerlink" title="声明"></a>声明</h2><h3 id="请勿随意将本站内容转发，本站主要为-Vc-服务，hahaha"><a href="#请勿随意将本站内容转发，本站主要为-Vc-服务，hahaha" class="headerlink" title="请勿随意将本站内容转发，本站主要为 Vc 服务，hahaha~"></a>请勿随意将本站内容转发，本站主要为 Vc 服务，hahaha~</h3><h3 id="本站内容还在完善中，存在大量半成品（包括文章顶部图和主页顶部图等），由于时间仓促，目前以二周年Surprise为主，后续将不断完善。"><a href="#本站内容还在完善中，存在大量半成品（包括文章顶部图和主页顶部图等），由于时间仓促，目前以二周年Surprise为主，后续将不断完善。" class="headerlink" title="本站内容还在完善中，存在大量半成品（包括文章顶部图和主页顶部图等），由于时间仓促，目前以二周年Surprise为主，后续将不断完善。"></a>本站内容还在完善中，存在大量半成品（包括文章顶部图和主页顶部图等），由于时间仓促，目前以二周年Surprise为主，后续将不断完善。</h3><h3 id="请-Vc-同学不定期仔细浏览本站！另：欢迎-Vc-同学提供想法和素材（图片、文章、布局思路等）"><a href="#请-Vc-同学不定期仔细浏览本站！另：欢迎-Vc-同学提供想法和素材（图片、文章、布局思路等）" class="headerlink" title="请 Vc 同学不定期仔细浏览本站！另：欢迎 Vc 同学提供想法和素材（图片、文章、布局思路等）"></a>请 Vc 同学不定期仔细浏览本站！另：欢迎 Vc 同学提供想法和素材（图片、文章、布局思路等）</h3><h2 id="以下为oxygen0514构建网站所用参考（Vc-可不用关注）"><a href="#以下为oxygen0514构建网站所用参考（Vc-可不用关注）" class="headerlink" title="以下为oxygen0514构建网站所用参考（Vc 可不用关注）"></a>以下为oxygen0514构建网站所用参考（Vc 可不用关注）</h2><h3 id="新文章创建"><a href="#新文章创建" class="headerlink" title="新文章创建"></a>新文章创建</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new page xxx</span><br></pre></td></tr></table></figure>
 
