@@ -456,25 +456,25 @@ body,button {
 	margin-top:0
 }
 .ft-overview .section-2 {
-	margin-top:0
+	margin-top:-40%
 }
 .ft-overview .section-3 {
-	margin-top:0
+	margin-top:-40%
 }
 .ft-overview .section-4 {
 	margin-top:0
 }
 .ft-overview .section-5 {
-	margin-top:0
+	margin-top:60%
 }
 .ft-overview .section-6 {
 	margin-top:0
 }
 .ft-overview .section-7 {
-	margin-top:0
+	margin-top:-40%
 }
 .ft-overview .section-8 {
-	margin-top:0
+	margin-top:-40%
 }
 .ft-overview .section-9 {
 	margin-top:0
@@ -662,10 +662,10 @@ body,button {
 	color:#bc195b
 }
 .page-7 {
-	background-color:#e6fbec
+	background-color:#ffffff
 }
 .page-7 img {
-	max-height:100%;
+	max-height:80%;
 	margin:0 auto
 }
 .page-7 h3 {
@@ -703,7 +703,7 @@ body,button {
 	background-color:#ccdadb
 }
 .page-9 img {
-	max-height:80%;
+	max-height:70%;
 	margin-top:0
 }
 .page-10 {
@@ -791,10 +791,22 @@ body,button {
 	text-align:center;
 }
 .page-22 {
-	background-color:#f5d484
+	background-color:#a1dddd
+}
+.page-22 img {
+	position:absolute;
+	max-height:70%;
+	right:3em;
 }
 .page-23 {
 	background-color:#fff
+}
+.page-24 {
+	background-color:#eadbf0
+}
+.page-24 img {
+	max-height:80%;
+	margin-top:0
 }
 .page-25 {
 	background-color:#57545b
@@ -841,20 +853,25 @@ body,button {
 	color:#eef
 }
 .page-30 {
-	background:#fff url(img/iali76_bg.png) center bottom repeat-x;
-	padding:0;
-	padding:0
+	background-color:#51444e;
 }
 .page-30 img {
-	position:absolute;
-	bottom:0;
-	left:0
+	max-height:80%;
+	margin-top:0
 }
 .page-31 {
-	background-color:#fbf5e9
+	background-color:#857a98
+}
+.page-31 img {
+	max-height:70%;
+	margin-top:0
 }
 .page-32 {
-	background-color:#faf2e5
+	background-color:#e6e2d9
+}
+.page-32 img {
+	max-height:80%;
+	margin-top:0
 }
 .page-33 {
 	background-color:#ffe6c8;
@@ -864,26 +881,27 @@ body,button {
 	margin-top:0
 }
 .page-34 {
-	background:#94c2e3 url(img/iali57.jpg) left bottom no-repeat
+	background:#f9f9ef
 }
 .page-34 h3 {
-	color:#fff
+	color:rgb(199, 175, 175)
 }
 .page-35 {
-	background:#fff url(img/iali8_bg.png) left bottom repeat-x;
+	background:#fff;
 	padding:0
 }
 .page-35 img {
 	position:absolute;
 	bottom:0;
-	left:0;
+	max-height:80%;
+	left: 10px;;
 	z-index:1
 }
 .page-35 h3 {
 	position:absolute;
-	right:10%;
-	top:5%;
-	color:green;
+	right:20%;
+	top:15%;
+	color:black;
 	z-index:2;
 	font-size:2em
 }
@@ -897,8 +915,20 @@ body,button {
 .page-37 {
 	background-color:#fff
 }
+.page-37 img {
+	position:absolute;
+	bottom:0;
+	max-height:50%;
+	top:25%;
+	right: 10px;
+	z-index:1
+}
 .page-38 {
-	background-color:#fff8f2
+	background-color:#ffffff
+}
+.page-38 img {
+	max-height:60%;
+	top:20%;
 }
 .page-39 {
 	background:#cef2f0;
@@ -911,55 +941,50 @@ body,button {
 	text-align:center;
 }
 .page-40 {
-	background-color:#cde7f4
+	background-color:#ffffff
 }
 .page-40 img {
 	position:absolute;
-	bottom:1em;
-	left:1em;
+	bottom:10em;
+	left:10em;
 	z-index:1
 }
 .page-40 h3 {
 	position:absolute;
 	top:1em;
-	right:1em;
+	right:5em;
 	z-index:2
 }
 .page-41 {
-	background-color:#5aaadc;
-	padding:0
+	background-color:#ffffff
 }
-.page-41 .img2,.page-41 .img1 {
-	position:absolute
-}
-.page-41 .img1 {
-	left:1em;
-	bottom:1em
-}
-.page-41 .img2 {
-	right:1em;
-	top:1em
+.page-41 img {
+	max-height:60%;
+	position:absolute;
+	bottom:10em;
+	left:10em;
+	z-index:1
 }
 .page-41 h3 {
-	padding:0;
 	position:absolute;
-	top:35%;
-	width:100%;
-	text-align:center
+	top:1em;
+	right:5em;
+	z-index:2
 }
 .page-42 {
-	background-color:#c1c567
+	background-color:#c0eff5
 }
 .page-42 img {
 	position:absolute;
+	max-height:70%;
 	bottom:2em;
-	left:1em
+	left:10em
 }
 .page-42 h3 {
 	font-size:2em
 }
 .page-43 {
-	background-color:#6b79ad
+	background-color:#ffc1c2
 }
 .page-43 img {
 	max-height:80%
@@ -968,13 +993,16 @@ body,button {
 	color:#fff
 }
 .page-44 {
-	background-color:#f3e7ab
+	background-color:#ffffff
+}
+.page-44 img {
+	max-height:80%
 }
 .page-45 {
-	background-color:#b1dceb
+	background-color:#fcddbe
 }
 .page-46 {
-	background:#66cbff
+	background:#ffe6c8
 }
 .page-46 h3 {
 	position:absolute;
@@ -991,17 +1019,23 @@ body,button {
 	width:1em;
 	vertical-align:top
 }
+.page-46 img {
+	position:absolute;
+	max-height:70%;
+	bottom:2em;
+	right:10em
+}
 .page-47 {
-	background-color:#fdcbca
+	background-color:#ffffff
 }
 .page-47 h3 {
 	position:absolute;
 	top:1em;
-	left:50%;
+	left:45%;
 	margin-left:-40%;
 	padding:0;
 	margin-top:0;
-	width:10em;
+	width:20em;
 	text-align:left
 }
 .page-47 h3 span {
@@ -1009,68 +1043,78 @@ body,button {
 	width:1em;
 	vertical-align:top
 }
+.page-47 img {
+	position:absolute;
+	max-height:70%;
+	bottom:2em;
+	right:10em
+}
 .page-48 {
-	background-color:#e3e2e7
+	background-color:#f6d2d2
+}
+.page-48 img {
+	position:absolute;
+	max-height:50%;
+	bottom:5em;
+	left:10em
 }
 .page-49 {
-	background-color:#fce6b6;
-	text-align:left
+	background-color:#d7c4be;
 }
 .page-49 img {
-	margin:0
+	max-height:70%;
 }
 .page-50 {
-	background-color:#aae1f6;
-	padding:0
+	background-color:#ffffff;
 }
-.page-50 .img1 {
+.page-50 img {
 	position:absolute;
-	right:0;
-	top:0
-}
-.page-50 .img2 {
-	position:absolute;
-	left:1em;
-	bottom:1em
+	max-height:70%;
+	bottom:0em;
+	right:10em
 }
 .page-50 p {
 	position:absolute;
-	top:1em;
-	left:1em;
 	width:50%;
-	margin:0;
 	z-index:3;
-	font-size:1.5em
+	font-size: 2.px
 }
 .page-51 {
-	background-image:url(img/iali52.jpg);
-	background-size:cover;
-	background-color:#fff;
-	text-align:left
+	background-color:#b8f2fd;
+	text-align:right
+}
+.page-51 img {
+	position:absolute;
+	max-height:90%;
 }
 .page-52 {
-	background-color:#fff2fb;
+	background-color:#f9dfe0;
 	padding:0
 }
 .page-52 h3 {
-	margin:0;
-	padding-top:.8em;
-	font-size:1.6em;
-	color:#4e0f3d
+	position:absolute;
+	z-index:2;
+	width:100%;
+	text-align:center;
 }
 .page-53 {
-	background-color:#febebe
-}
-.page-54 {
 	background:#d3d2d0 url(img/319280_bg.jpg) repeat
 }
-.page-54 .center-img {
+.page-53 .center-img {
 	background-image:url(img/319280.jpg);
 	text-indent:-99999px
 }
-.page-54 h3 {
+.page-53 h3 {
 	line-height:1rem;
 	padding-top:0.5em
+}
+.page-54 {
+	background-color:#aee6db;
+}
+.page-54 img {
+	position:absolute;
+	max-height:60%;
+	right:25%;
 }
 .page-55 {
 	background-color:#fff
